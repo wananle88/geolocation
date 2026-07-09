@@ -1,5 +1,5 @@
 {
-  "name": "ip-geoaddress-generator",
+  "name": "geoaddress",
   "version": "0.1.0",
   "private": true,
   "scripts": {
