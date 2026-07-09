@@ -6,7 +6,7 @@
 
 ### 访问地址
 
-https://ip-geoaddress-generator.pages.dev/
+https://ip-geoaddress-generator.pages.dev
 
 
 
